@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DssSample</string>
+    <string name="dcyes">ہاں</string>
+    <string name="dcno">نہیں</string>
+
+    <string name="dcl01a"> روٹی </string>
+    <string name="dcl01b"> آلو، شکرقندی وغیرہ </string>
+    <string name="dcl01c"> دالیں </string>
+    <string name="dcl01d"> سبزیاں </string>
+    <string name="dcl01e"> پھل </string>
+    <string name="dcl01f"> گوشت مچھلی انڈے </string>
+    <string name="dcl01g"> دودھ یا دودھ سے بنی ہوئی چیزیں </string>
+    <string name="dcl01h"> چینی </string>
+    <string name="dcl01i"> تیل چربی </string>
+
+    <string name="end_interview"> اختتام </string>
+    <string name="nextSection"> اگلا سیکشن </string>
+</resources>
